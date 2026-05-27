@@ -99,3 +99,15 @@ Available for remote freelance projects related to:
 - Audio annotation
 - Translation review
 - Japanese proofreading
+
+---
+
+## Japanese Voice Sample
+
+Sample Japanese narration and voice recording for AI speech and localization-related projects.
+
+Includes:
+- natural Japanese pronunciation
+- clear articulation
+- standard Japanese accent
+- AI voice dataset experience
